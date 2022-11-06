@@ -1,3 +1,2 @@
-## Idea
+## Birthday remainder project using React
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
